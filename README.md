@@ -127,8 +127,10 @@ Quest 中应用 softspace AR在输出方式上做到了3D交互
         - 今年10月12日发布了AR/VR芯片骁龙XR2+ Gen1，续航较上一代提升了50%，散热提升30%，外形尺寸更小更轻Oculus Quest Pro首发骁龙XR2+芯片（2022年10月发布）
         - 今年11月17日发布了专为AR的骁龙AR2平台，相对XR2整体功耗降低50%，AI性能提高2.5倍
         
-        ![8](https://user-images.githubusercontent.com/118708553/210031029-787ff1de-418b-446f-bab1-5c1e07a4bc00.png)
-        ![9](https://user-images.githubusercontent.com/118708553/210031041-677b8f4a-e5f6-4a80-9b48-5ac9ca0916f3.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210031029-787ff1de-418b-446f-bab1-5c1e07a4bc00.png"/>
+<img src="https://user-images.githubusercontent.com/118708553/210031041-677b8f4a-e5f6-4a80-9b48-5ac9ca0916f3.png"/>
+</div>
 
       - 现状：
         - 中高端XR芯片仍被海外厂商占领，国内厂商目前在芯片设计和算法支持上仍有较大差距
