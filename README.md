@@ -149,14 +149,18 @@ Quest 中应用 softspace AR在输出方式上做到了3D交互
         - CloudXR解决方案：
         CloudVR基本准则是将消耗资源的计算转移到云或边缘端，并将内容通过低延迟高宽带5G网络传输到轻量级客户端。CloudAR：需要实时理解并适应现实世界的场景，需要额外的传感器，场景识别和计算功能。带来好处：轻量级客户成为可能的发展趋势，移动性更强，电池寿命更长
         【云架构分为两层。中心节点负责5G网络控制面功能和管理平面功能，边缘节点负责用户平面功能和边缘计算平台功能。下图为CloudXR网络架构和延迟。
-        
-![11](https://user-images.githubusercontent.com/118708553/210031115-a4d523ee-0eef-4494-b31a-cdbbcf1a556b.png)
+      
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210031115-a4d523ee-0eef-4494-b31a-cdbbcf1a556b.png"/>
+</div>
 
 
         - Cloud XR5个不同阶段：
           - Wireless X labs提出了5个阶段定义Cloud XR演进过程。目前处于第二阶段。
         
-![12](https://user-images.githubusercontent.com/118708553/210031126-d123e4cb-5fad-4eee-a356-8dfa8cab299e.png)
+<div align=center>
+<img src="hhttps://user-images.githubusercontent.com/118708553/210031126-d123e4cb-5fad-4eee-a356-8dfa8cab299e.png"/>
+</div>
 
         - CloudXR关键技术
           - 1.FOV视频传输
