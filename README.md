@@ -241,7 +241,7 @@ Quest 中应用 softspace AR在输出方式上做到了3D交互
     - 惯性传感器动捕技术：被定为目标佩戴惯性传感设备，采集运动信息
       - 代表：诺亦腾 - PercepTIon Neuron
       
-<div aign=center>
+<div align=center>
 <img src="https://user-images.githubusercontent.com/118708553/210031167-7315b271-24d2-49e3-b0ab-3260196662f5.png"/>
 </div>
 
