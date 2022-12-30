@@ -1,7 +1,7 @@
 # XR
 协作者：Maggie 刘梦琦  包晨
 
-Key Word：Pancake，硅基OLED/Mini LED，FOV，PPD，6DoF，光波导，See Through，Eye Tracking，注视点渲染
+<b>Key Word：</b> Pancake，硅基OLED/Mini LED，FOV，PPD，6DoF，光波导，See Through，Eye Tracking，注视点渲染
 
 一、发展历史
 ---
