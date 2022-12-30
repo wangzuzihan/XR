@@ -219,7 +219,9 @@ Quest 中应用 softspace AR在输出方式上做到了3D交互
     - 激光定位技术：空间内安装发射激光装置，被定位物体安装激光感应接收器
       - 代表：HTC Vive——Lighthouse定位技术，靠激光和光敏传感器来确定，手柄和头显上有70个光敏传感器
       
-![15](https://user-images.githubusercontent.com/118708553/210031153-d0437c8c-9dca-4f44-9dcc-7ec009f40d40.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210031153-d0437c8c-9dca-4f44-9dcc-7ec009f40d40.png"/>
+</div>
 
 
 
@@ -235,7 +237,9 @@ Quest 中应用 softspace AR在输出方式上做到了3D交互
     - 惯性传感器动捕技术：被定为目标佩戴惯性传感设备，采集运动信息
       - 代表：诺亦腾 - PercepTIon Neuron
       
-   ![16](https://user-images.githubusercontent.com/118708553/210031167-7315b271-24d2-49e3-b0ab-3260196662f5.png)
+<div aign=center>
+<img src="https://user-images.githubusercontent.com/118708553/210031167-7315b271-24d2-49e3-b0ab-3260196662f5.png"/>
+</div>
 
 
     - 头显解决方案：通过AI训练后的预测功能，利用头显获取的身体一部分的动作（比如上半身）预测全身动作
@@ -253,8 +257,9 @@ Quest 中应用 softspace AR在输出方式上做到了3D交互
 
     - 品牌厂微软、Meta、Pico、Magic Leap、HTC、创维、小派、Varjo、Gear 等均已推出支持眼球追踪的XR设备；索尼、苹果等搭载眼球追踪功能的消费级新品即将上市
   - 技术实现：
-
-![18](https://user-images.githubusercontent.com/118708553/210031181-245860bb-d574-4040-95c6-efeed6ae4f53.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210031181-245860bb-d574-4040-95c6-efeed6ae4f53.png"/>
+</div>
 
 
 - 脑机接口：依赖于硬件层（脑电采集设备、外控设备）和软件层（生物信号分析、核心算法、通信计算和安全隐私）的技术突破，目前在XR设备上没有特别落地的应用，但在医学领域有一些尝试https://zhuanlan.zhihu.com/p/372360870
