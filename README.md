@@ -60,9 +60,10 @@ Half Dome 原型机一直专注于解决这个问题（一堆液晶透镜层，�
 <b>光学畸变</b>
 球面失真，视野越大，图像越扭曲。
 
-![3](https://user-images.githubusercontent.com/118708553/210030743-c2061508-c8cd-46bd-9d08-6315d4de28f2.PNG)
-
-
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210030743-c2061508-c8cd-46bd-9d08-6315d4de28f2.PNG"/>
+</div>
+  
 眼镜移动观察不同方向，虚拟图像畸变会变化，矫正困难，完美的矫正应该是动态的。Meta团队构建了一个失真模拟器，可以在不使用头显情况下研究不同光学设计和失真矫正算法。
 
 <b>HDR：</b>
@@ -78,15 +79,19 @@ Quest 中应用 softspace AR在输出方式上做到了3D交互
 ### 3.1 精准的空间定位
 - DOF：从3dof→6dof，自由度越高，能够识别的动作维度越高
   - DoF自由度：3DoF代表三维空间中的三个自由度，即沿x、y、z轴的位移。6DoF代表六个自由度，包括前面的三个自由度和三个旋转角，即沿着x、y、z轴的旋转。（总结：位移+旋转）
-  
-![4](https://user-images.githubusercontent.com/118708553/210030790-82645a2c-b548-4dba-8ada-456f1a227ac8.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210030790-82645a2c-b548-4dba-8ada-456f1a227ac8.png"/>
+</div>
 
 - 3DoF：只能检测位移
   - 手部（手柄）：只有三轴旋转功能，显示射线指针
   - 头部（头显）：射线投射
   
-![5](https://user-images.githubusercontent.com/118708553/210030828-41ca1027-2a2d-43c6-9960-e6f7a396842a.png)
-![6](https://user-images.githubusercontent.com/118708553/210030844-5241504f-9a92-49d4-bcd6-f63e11082605.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210030828-41ca1027-2a2d-43c6-9960-e6f7a396842a.png"/>
+<img src="https://user-images.githubusercontent.com/118708553/210030844-5241504f-9a92-49d4-bcd6-f63e11082605.png"/>
+</div>
 
 - 6Dof：检测头部转动带来的视野角度变化外，还能够检测身体移动带来的旋转变化
   - 头部
